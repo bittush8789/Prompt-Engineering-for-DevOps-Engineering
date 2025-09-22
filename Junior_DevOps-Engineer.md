@@ -1,4 +1,4 @@
-# 🛠️ Top 50 DevOps Prompts for Beginners (0–1 Year Experience)
+# 🛠️ Top 50 DevOps Prompts for Beginners (0–1 Year Experience) ###
 
 Curated by a Senior DevOps Engineer, this list is designed to guide junior DevOps engineers through foundational skills across Linux, Git, Docker, CI/CD, cloud infrastructure, and monitoring.
 
